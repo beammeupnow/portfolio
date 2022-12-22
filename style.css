@@ -155,7 +155,7 @@ height: 50%;
   .container {
     width: 100%;
     margin: 10px auto;
-    padding: 30px;
+    padding: 0px 0px 0px 10px;
     color: white;
   }
   
@@ -191,7 +191,7 @@ height: 50%;
     margin-bottom: 10px;
     transition: 0.3s;
     margin: 10px;
-    border-radius: 50px;
+    border-radius: 20px;
     color: white;
     font-family: 'Secular One', cursive;
     
@@ -199,12 +199,12 @@ height: 50%;
   }
   
   .card-body {
-    padding: 10px 10px;
+    padding: 0px 10px;
     text-align: left;
     font-size: 18px;
   }
   
- .food1 {border-radius: 50px 50px 0px 0px;background-attachment: fixed;
+ .food1 {border-radius: 20px 20px 0px 0px;background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
   height: 50%; 
@@ -292,7 +292,7 @@ height: 50%;
   
   .bottomnav {
     overflow: hidden;
-    border-top: 0.4rem black solid;
+    border-top: 0.2rem black solid;
     z-index: 100;
     position: fixed;
     bottom: 0;
